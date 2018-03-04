@@ -42,7 +42,7 @@ body {
   display: flex;
   justify-content: space-evenly;
 }
-  section {
+  .project {
     font-size: 1rem;
     text-align: center;
   }
@@ -103,5 +103,5 @@ body {
   #work-title {
       font-size: 1.5rem;
   }
-  
+
 }
