@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poiret One', cursive;
+}
+
+.headers {
+  text-transform: uppercase;
+  width: 90%;
+  margin: 2rem auto;
+  text-align: right;
+}
+
+header img {
+  width: 100%;
+  overflow: hidden;
+}
+
+/*h1, h3 {
+  text-align: right;
+}*/
+
+h1 {
+
+}
+
+#featured-work-container {
+  width: 90%;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.social {
+  max-width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+a {
+  margin: 0 1rem;
+}
